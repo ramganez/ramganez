@@ -2,7 +2,8 @@ Hey 👋🏽! I'm Ram Ganesh, I'm an engineer at Applied Data Finance.
 
 - 🔭 I'm  mostly work with Python-based web frameworks like Django, Flask. 
 - 🙋‍♂️ I'm very much interested in Javascript and JS based Frameworks.
-- ❤️ I love to debug and reading code
+- 🌱 I’m currently learning React
+- ❤️ I love to debug 
 
 <!--
 **ramganez/ramganez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
