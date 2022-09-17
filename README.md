@@ -1,21 +1,14 @@
-Hey 👋🏽! I'm Ram Ganesh, I'm an engineer at Applied Data Finance.
+# Hi I'm Ram Ganesh 👋🏼
 
-- 🔭 I'm  mostly work with Python-based web frameworks like Django, Flask. 
-- 🙋‍♂️ I'm very much interested in Javascript and JS based Frameworks.
-- 🌱 I’m currently learning React
-- ❤️ I love to debug 
+```yaml
+name: Ram Ganesh Kuthalingam
+located_in: Mississauga, Canada
+from: India
+job: Software Engineer 
+education: ["Bachelor of engineering ", "Information Technology"]
 
-<!--
-**ramganez/ramganez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interests: ["Backend Development", "Frontend Development", "Built Web Application"]
+technical_background: ["Python", "Django", "Flask", "Flask", "Javascript", "React", "SQL"]
+currently_learning: ["React", "Algorithms and Data Structures"]
+hobbies: ["Walking", "Running", "Music"]
+```
