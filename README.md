@@ -8,7 +8,7 @@ job: Software Engineer
 education: ["Bachelor of engineering ", "Information Technology"]
 
 fields_of_interests: ["Backend Development", "Frontend Development", "Built Web Application"]
-technical_background: ["Python", "Django", "Flask", "Flask", "Javascript", "React", "SQL"]
+technical_background: ["Python", "Django", "Flask", "Javascript", "React", "SQL"]
 currently_learning: ["React", "Algorithms and Data Structures"]
 hobbies: ["Walking", "Running", "Music"]
 ```
