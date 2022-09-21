@@ -1,4 +1,4 @@
-# Hi I'm Ram Ganesh 👋🏼
+# Hi I'm Ram Ganesh Kuthalingam 👋🏼
 
 ```yaml
 name: Ram Ganesh Kuthalingam
