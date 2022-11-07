@@ -9,6 +9,5 @@ education: ["Bachelor of engineering ", "Information Technology"]
 
 fields_of_interests: ["Backend Development", "Frontend Development", "Build Web Application"]
 technical_background: ["Python", "Django", "Flask", "Javascript", "React", "SQL"]
-currently_learning: ["React", "Algorithms and Data Structures"]
 hobbies: ["Walking", "Running", "Music"]
 ```
