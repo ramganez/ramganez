@@ -7,7 +7,7 @@ from: India
 job: Software Engineer 
 education: ["Bachelor of engineering ", "Information Technology"]
 
-fields_of_interests: ["Backend Development", "Frontend Development", "Build Web Application"]
+fields_of_interests: ["Backend Development", "Full Stack Development", "Build Web Application"]
 technical_background: ["Python", "Django", "Flask", "Javascript", "React", "SQL"]
 hobbies: ["Walking", "Running", "Music"]
 ```
